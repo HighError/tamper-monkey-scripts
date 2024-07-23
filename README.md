@@ -18,5 +18,5 @@ Description: Auto clicker for Hamster Kombat. Auto claim boost.
 
 Version: **1.1.0**
 
-[Install](https://github.com/HighError/tamper-monkey-scripts/raw/master/djdog.user.js)
+[Install](https://github.com/HighError/tamper-monkey-scripts/raw/master/hamster-kombat.user.js)
 
