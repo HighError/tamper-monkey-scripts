@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HamsterKombat Auto Clicker
 // @namespace    https://github.com/HighError/tamper-monkey-scripts
-// @version      1.1.0
+// @version      1.1.1
 // @description  Auto clicker for Hamster Kombat
 // @author       HighError
 // @match        https://hamsterkombatgame.io/clicker/
@@ -62,7 +62,17 @@ async function click(button, now, maximum) {
 	}
 
 	if (enableClicker) {
-		button.dispatchEvent(new PointerEvent("pointerup"));
+		const randomX = Math.floor(Math.random() * 422);
+		const randomY = Math.floor(Math.random() * 321);
+		button.dispatchEvent(
+			new PointerEvent("pointerup", {
+				view: window,
+				bubbles: true,
+				cancelable: true,
+				clientX: randomX,
+				clientY: randomY,
+			}),
+		);
 	} else {
 		console.log(
 			`Not enough energy. Clicker stopped, to ${maximum} energy. Now: ${now}`,

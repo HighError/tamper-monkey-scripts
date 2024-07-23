@@ -5,6 +5,7 @@
     - [1.0.1](#101)
     - [1.0.0](#100)
   - [Hamster Kombat](#hamster-kombat)
+    - [1.1.1](#111)
     - [1.1.0](#110)
     - [1.0.0](#100-1)
   - [Memefi](#memefi)
@@ -20,6 +21,9 @@
 - Init release
 
 ## Hamster Kombat
+
+### 1.1.1
+- Random click position
 
 ### 1.1.0
 - Auto claim boost
