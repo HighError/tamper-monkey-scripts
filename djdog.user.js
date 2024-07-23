@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DjDog AutoClicker
-// @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @namespace    https://github.com/HighError/tamper-monkey-scripts
+// @version      1.0.1
 // @description  AutoClicker for DjDog Telegram bot
 // @author       HighError
 // @match        https://djdog.io/dog
@@ -14,7 +14,7 @@
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 let clicks = 0;
-const maxClicks = 100;
+const maxClicks = 200;
 
 function getClickButton() {
 	let btn;
