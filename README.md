@@ -27,3 +27,11 @@ Description: Auto clicker for Memefi.
 Version: **1.0.0**
 
 [Install](https://github.com/HighError/tamper-monkey-scripts/raw/master/memefi.user.js)
+
+## FlareX
+
+Description: Auto claimer for FlareX.
+
+Version: **1.0.0**
+
+[Install](https://github.com/HighError/tamper-monkey-scripts/raw/master/flarex.user.js)
