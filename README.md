@@ -1,5 +1,7 @@
 # TamperMonkey Scripts
 
+[Install TamperMonkey (Chrome)](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=uk)
+
 ## DjDog
 
 Description: AutoClicker for DjDog. Click 100 times (1 click per 500ms) with a delay of 15m.
