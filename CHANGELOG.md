@@ -7,6 +7,8 @@
   - [Hamster Kombat](#hamster-kombat)
     - [1.1.0](#110)
     - [1.0.0](#100-1)
+  - [Memefi](#memefi)
+    - [1.0.0](#100-2)
 
 
 ## DjDog
@@ -21,6 +23,11 @@
 
 ### 1.1.0
 - Auto claim boost
+
+### 1.0.0
+- Init release
+-
+## Memefi
 
 ### 1.0.0
 - Init release

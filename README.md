@@ -20,3 +20,10 @@ Version: **1.1.0**
 
 [Install](https://github.com/HighError/tamper-monkey-scripts/raw/master/hamster-kombat.user.js)
 
+## Memefi
+
+Description: Auto clicker for Memefi.
+
+Version: **1.0.0**
+
+[Install](https://github.com/HighError/tamper-monkey-scripts/raw/master/memefi.user.js)
