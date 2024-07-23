@@ -7,8 +7,8 @@
 // @match        https://djdog.io/dog
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=djdog.io
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/HighError/djdog/main/djdog.user.js
-// @updateURL    https://raw.githubusercontent.com/HighError/djdog/main/djdog.user.js
+// @downloadURL  https://github.com/HighError/tamper-monkey-scripts/raw/master/djdog.user.js
+// @updateURL    https://github.com/HighError/tamper-monkey-scripts/raw/master/djdog.user.js
 // ==/UserScript==
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
