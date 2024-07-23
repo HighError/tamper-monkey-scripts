@@ -41,7 +41,4 @@ async function start() {
 	start();
 }
 
-(function () {
-	"use strict";
-	start();
-})();
+(() => start())();

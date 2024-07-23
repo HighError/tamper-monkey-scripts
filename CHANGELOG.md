@@ -10,6 +10,8 @@
     - [1.0.0](#100-1)
   - [Memefi](#memefi)
     - [1.0.0](#100-2)
+  - [FlareX](#flarex)
+    - [1.0.0](#100-3)
 
 
 ## DjDog
@@ -30,8 +32,13 @@
 
 ### 1.0.0
 - Init release
--
+
 ## Memefi
+
+### 1.0.0
+- Init release
+
+## FlareX
 
 ### 1.0.0
 - Init release
