@@ -35,3 +35,11 @@ Description: Auto claimer for FlareX.
 Version: **1.0.0**
 
 [Install](https://github.com/HighError/tamper-monkey-scripts/raw/master/flarex.user.js)
+
+## Pocket Rocket
+
+Description: Auto clicker for Pocket Rocket.
+
+Version: **1.0.0**
+
+[Install](https://github.com/HighError/tamper-monkey-scripts/raw/master/pocket-rocket.user.js)

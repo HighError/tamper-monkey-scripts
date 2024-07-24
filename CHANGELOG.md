@@ -12,6 +12,8 @@
     - [1.0.0](#100-2)
   - [FlareX](#flarex)
     - [1.0.0](#100-3)
+  - [Pocket Rocket](#pocket-rocket)
+    - [1.0.0](#100-4)
 
 
 ## DjDog
@@ -39,6 +41,11 @@
 - Init release
 
 ## FlareX
+
+### 1.0.0
+- Init release
+
+## Pocket Rocket
 
 ### 1.0.0
 - Init release
