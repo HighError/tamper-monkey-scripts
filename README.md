@@ -40,6 +40,6 @@ Version: **1.0.0**
 
 Description: Auto clicker for Pocket Rocket.
 
-Version: **1.0.0**
+Version: **1.0.1**
 
 [Install](https://github.com/HighError/tamper-monkey-scripts/raw/master/pocket-rocket.user.js)

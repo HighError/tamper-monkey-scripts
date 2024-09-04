@@ -13,6 +13,7 @@
   - [FlareX](#flarex)
     - [1.0.0](#100-3)
   - [Pocket Rocket](#pocket-rocket)
+    - [1.0.1](#101-1)
     - [1.0.0](#100-4)
 
 
@@ -46,6 +47,9 @@
 - Init release
 
 ## Pocket Rocket
+
+### 1.0.1
+- Updated for new version Pocket Rocket
 
 ### 1.0.0
 - Init release
